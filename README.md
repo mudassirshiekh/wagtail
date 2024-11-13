@@ -28,7 +28,8 @@ Wagtail is an open source content management system built on Django, with a stro
 
 ![Wagtail screenshot](https://cdn.jsdelivr.net/gh/wagtail/wagtail@main/.github/wagtail-screenshot-with-browser.png)
 
-### 🔥 Features
+### 🔥 Features\
+## By Mudassir Alam
 
 -   A fast, attractive interface for authors
 -   Complete control over front-end design and structure
